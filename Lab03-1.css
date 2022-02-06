@@ -1,0 +1,12 @@
+div.jumbotron jumbotron-fluid{
+    margin: 50px;
+    padding: 50px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+  }   
